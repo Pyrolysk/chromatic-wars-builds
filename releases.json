@@ -1,0 +1,17 @@
+{
+  "game_id": "chromatic-wars",
+  "releases": [
+    {
+      "executable": "ChromaticWars.exe",
+      "notes": "Brand new... Nothing to expect yet.",
+      "platform": "windows-x64",
+      "published_utc": "2026-10-12T22:28:21Z",
+      "sha256": "fb677eba854131f36ff07ca6cbea9ac88e10695390480da6b15ad4971bf2cd7b",
+      "size_bytes": 38991134,
+      "title": "First playable",
+      "url": "https://github.com/Pyrolysk/chromatic-wars-builds/releases/download/v0.1/ChromaticWars_v0.1.zip",
+      "version": "v0.1"
+    }
+  ],
+  "schema": 1
+}
